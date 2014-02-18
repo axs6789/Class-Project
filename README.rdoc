@@ -1,5 +1,16 @@
 == README
 
+Link to Heroku page: http://young-thicket-6139.herokuapp.com/
+
+What I did:
+1. Wrote a database schema with a Users table and a Tasks table (see below).
+2. Set up my application so that I can add Users, show Users, add Tasks, and show Tasks.
+3. Added links to my homepage that direct the user to the appropriate page for adding Users, showing Users, adding Tasks, and showing Tasks.
+
+What problems I had:
+1. I initially had some trouble deciding how to structure my database because I wasn't sure how I would be creating my app. I solved this by planning my app out a bit and getting Jenny's feedback.
+2. I found it a bit hard grasping how all of the files and code related to each other. I solved this by looking through all of the files and trying to understand the connections between different pieces of code.
+3. 
 
 
 Schema:
