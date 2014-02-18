@@ -13,6 +13,7 @@ What problems I had:
 3. When adding links to my home page, I had some trouble determining the paths to my files. I solved this by asking Jenny for advice and running rake routes in the Command Prompt.
 
 Schema:
+
 Table: Users
 Username:string
 Email:string
