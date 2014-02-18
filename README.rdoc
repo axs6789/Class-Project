@@ -10,11 +10,9 @@ What I did:
 What problems I had:
 1. I initially had some trouble deciding how to structure my database because I wasn't sure how I would be creating my app. I solved this by planning my app out a bit and getting Jenny's feedback.
 2. I found it a bit hard grasping how all of the files and code related to each other. I solved this by looking through all of the files and trying to understand the connections between different pieces of code.
-3. 
-
+3. When adding links to my home page, I had some trouble determining the paths to my files. I solved this by asking Jenny for advice and running rake routes in the Command Prompt.
 
 Schema:
-
 Table: Users
 Username:string
 Email:string
